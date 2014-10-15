@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <id>Koshu.AssemblyInfo</id>
+    <version>1.0.0</version>
+    <authors>Kristoffer Ahl</authors>
+    <owners>Kristoffer Ahl</owners>
+    <projectUrl>https://github.com/kristofferahl/Koshu.AssemblyInfo</projectUrl>
+    <licenseUrl>http://www.opensource.org/licenses/mit-license.php</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>AssemblyInfo plugin for Koshu</description>
+    <tags>koshu assemblyinfo plugin</tags>
+  </metadata>
+  <files>
+    <file src="**\*.*" />
+  </files>
+</package>
