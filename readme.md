@@ -1,8 +1,18 @@
 # Koshu.AssemblyInfo
 
-Plugin for generating assembly info files.
+Koshu plugin for generating assembly info files.
 
 ## Usage
+
+### Configuration
+
+This plugin currently does not support configuration.
+
+	config @{
+		"Koshu.AssemblyInfo"=@{}
+	}
+
+### Generate assembly info
 
     Generate-AssemblyInfo `
         -file ".\SharedAssemblyInfo.cs" `
