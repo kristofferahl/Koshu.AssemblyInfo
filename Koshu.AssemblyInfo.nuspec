@@ -9,7 +9,7 @@
     <licenseUrl>http://www.opensource.org/licenses/mit-license.php</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>AssemblyInfo plugin for Koshu</description>
-    <tags>koshu assemblyinfo plugin</tags>
+    <tags>koshu plugin psake assemblyinfo</tags>
   </metadata>
   <files>
     <file src="**\*.*" />
